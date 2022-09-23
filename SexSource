@@ -6,7 +6,7 @@
 local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stebulous/solaris-ui-lib/main/source.lua"))()
 
 local win = SolarisLib:New({
-  Name = "Cool Hex By Sizz#0880",
+  Name = "SizzWub | By Sizz#0880",
   FolderToSave = "SolarisLibStuff"
 })
 
